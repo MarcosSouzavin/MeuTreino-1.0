@@ -34,7 +34,7 @@
    
     <div class="feature-card">
          <div class="icon">
-        <img src="assets/img/CON.png" alt="Ícone de CON" class="icon-img">
+        <img src="assets/img/COQ.png" alt="Ícone de CONQUISTA" class="icon-img">
     </div>
         <h3>Objetivos Modificáveis</h3>
         <p>Começou querendo emagrecer e agora quer focar em hipertrofia pura? Altere sua meta com um clique e todo o seu planejamento é reestruturado instantaneamente.</p>
